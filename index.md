@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+    
+        <title<script>onclick("")</script>>AhmedDEV</title>
+        <meta name="description" content="Esta es mi primera pagina web"/>
+        <link type="image/x-icon" rel="shortcut icon" href="file:///C:/Users/sirtg/Desktop/drawing.png">
+        <meta name="author" content="AhmedDEV"/>
+        <meta name="keywords" content="desarollo,videojuegos,paginas web,mi primer sitio"/>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/e7a1a54e37.js" crossorigin="anonymous"></script>
+    </head>
+    <body style="background-color:rgba(17, 17, 17, 0.719);">
 
-You can use the [editor on GitHub](https://github.com/midomask/midomask.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+        <a href="file:///C:/Users/sirtg/Desktop/pagina%20re%20facha/body.html">
+            <i class="fas fa-home"></i>
+        </a>
+        
+        
+      <header>
+        <h1 id="AHMED">AhmedDEV</h1>    
+      </header>      
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<section>
+    
+    <article>
+     <hgroup>
+         <script>
+             Ahmed = "Bienvenido Jesus disfruta";
+         alert(Ahmed);
+         </script>
+        
+        <h1 id="PrimerArticulo">About me</h1>
+        <p>Hello!My name is Ahmed Atiya i am a young frontend developer who lives in spain.</p>
+    </hgroup> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+    </article>
 
-# Header 1
-## Header 2
-### Header 3
+    <article>
+        <hgroup>
+            <h1 id="kechon">SKILLS</h1>
+            <img id="html5" src="https://www.atodocurso.com/sites/default/files/html.png" alt="html">
+            <img id="css" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="css">
+         </hgroup>
+         
+         <footer>
+            <img src="avatar.jpg" alt="">
+ 
+         </footer>
+    </article>
 
-- Bulleted
-- List
+    
+</section>
+<address>
+<p>Contact me!</p>
+<a href="gmail.com" target="_blank">
+    <i id="contactme" class="fas fa-envelope-square">
+        <footer>gmail</footer>
+    </i>
+</a>
+  
+<i id="phone" class="fas fa-phone-square-alt"></i>
+<p id="numerodetelefono">
+    (00)000000000
+</p>
+    </body>
+    
+</html>
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/midomask/midomask.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
